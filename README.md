@@ -1,1 +1,2 @@
 # EpokaInteractiveSystemDatabase
+This project involves designing and implementing a database for the Epoka Interactive System as part of a Database Management Systems course. The project includes creating the database schema, defining relationships between tables, populating tables with data, and writing queries to manage and retrieve information efficiently. The goal is to develop a well-structured and optimized database that supports the interactive system’s functionality.
